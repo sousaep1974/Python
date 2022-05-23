@@ -28,7 +28,12 @@ print(6. // 3.)
 print(6 // 5) 
 print (6 / 4)
 
-print ("Remainder (modulo) % (percent)")
+print ("Remainder (modulo) % (percent)") 
+#EXPLANATION: The rule still works:
+#3.0 – not 3 but 3.0. 
+#12 // 4.5 gives 2.0,
+#2.0 * 4.5 gives 9.0,
+#12 - 9.0 gives 3.0.
 print(14 % 4)
 print(12 % 4.5)
 
