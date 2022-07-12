@@ -27,3 +27,9 @@ comparacao1 = 5 > 3 and 6 > 3
 comparacao2 = 5 < 3 and 6 > 3
 print(comparacao1)
 print(comparacao2)
+
+comparacao3 = 5 > 3 or 6 > 3
+comparacao4 = 5 < 3 or 6 > 3
+print(comparacao3)
+print(comparacao4)
+
